@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MmoConsole", "MmoConsole\MmoConsole.csproj", "{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkRift", "DarkRift\DarkRift.csproj", "{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkRift.Server", "DarkRift.Server\DarkRift.Server.csproj", "{96A1256C-0467-4E3E-8E35-1026CBA5303A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkRift.Client", "DarkRift.Client\DarkRift.Client.csproj", "{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MmoCommon", "MmoCommon\MmoCommon.csproj", "{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7128684E-BE00-424B-B400-A1BC893E868B}
+	EndGlobalSection
+EndGlobal
