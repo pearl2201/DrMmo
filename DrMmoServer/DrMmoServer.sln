@@ -11,30 +11,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkRift.Server", "DarkRift
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkRift.Client", "DarkRift.Client\DarkRift.Client.csproj", "{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MmoCommon", "MmoCommon\MmoCommon.csproj", "{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MmoCommon", "MmoCommon\MmoCommon.csproj", "{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Build|Any CPU.Build.0 = Release|Any CPU
 		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B937A61B-BC69-41E3-B4AC-2DF32536A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Build|Any CPU.Build.0 = Release|Any CPU
 		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA2E8A55-7168-44FC-BCDA-E9A9A6D498BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Build|Any CPU.Build.0 = Release|Any CPU
 		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A1256C-0467-4E3E-8E35-1026CBA5303A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Build|Any CPU.Build.0 = Release|Any CPU
 		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EFEB5B3-1D12-43A6-B9B8-F2FBACBE9B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Build|Any CPU.Build.0 = Release|Any CPU
 		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A49F3DD-89EF-44AA-9164-BFD16E25DE92}.Release|Any CPU.ActiveCfg = Release|Any CPU

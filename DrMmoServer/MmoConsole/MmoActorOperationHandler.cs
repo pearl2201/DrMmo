@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using DarkRift.Server;
+
 namespace MmoConsole
 {
-	internal class MmoActorOperationHandler
+	public class MmoActorOperationHandler
 	{
+
+
 	}
 }

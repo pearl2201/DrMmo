@@ -14,5 +14,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DarkRift.Server\DarkRift.Server.csproj" />
+    <ProjectReference Include="..\MmoCommon\MmoCommon.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="PubSub\" />
   </ItemGroup>
 </Project>
